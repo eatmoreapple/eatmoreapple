@@ -2,7 +2,6 @@
 
 ##### About me:
 
-- 🔭 浙江  杭州
 - 🛂 `Golang`  `Python`
 - 👥 微信：`EatMoreApple`
 - address: `0x9De7441DBA9b09a0D975f9b31EBf745C0FA49763`
