@@ -1,6 +1,5 @@
 ## eatmoreapple :apple:
-
-> 找份端茶倒水的工作
+    
 
 ##### About me:
 
