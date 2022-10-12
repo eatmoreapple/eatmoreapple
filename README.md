@@ -1,5 +1,6 @@
 ## eatmoreapple :apple:
     
+<img src="https://visitor-badge.laobi.icu/badge?page_id=eatmoreapple"> 
 
 ##### About me:
 
