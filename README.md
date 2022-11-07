@@ -11,6 +11,7 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=dracula" />
 
 <img width="210px"  src="./img/wechat.jpg" align="left">
 
