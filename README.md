@@ -13,6 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **gol
 - Repository: [https://github.com/eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat)
 - Description: golang wechat sdk
 - Tech Stack: golang
+- Documentation: [click to read](https://openwechat.readthedocs.io/zh/latest/)
 
 ###  juice
 
@@ -20,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **gol
 - Description: sql mapper framework for golang
 - Tech Stack: golang
 - Features: Flexible, Easy to use, High performance
-- Documentation: [juice](https://juice-doc.readthedocs.io/en/latest/index.html)
+- Documentation: [click to read](https://juice-doc.readthedocs.io/en/latest/index.html)
 
 ## Contact Me
 
