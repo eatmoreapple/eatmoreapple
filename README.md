@@ -1,51 +1,84 @@
-# Hi there, I'm eatmoreapple! 👋
+<!-- 个人徽章 -->
+<h1 align="center">我是 eatmoreapple 👋</h1>
 
-[](mailto:eatmoreorange@gmail.com)
+## 关于我 ✨
 
+热爱技术的开发者，目前在杭州，专注于 Golang 和 Python，喜欢通过代码解决问题。业余时间积极参与开源项目，与社区共同成长。
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in **golang python**. I love creating innovative solutions and contributing to open-source projects.
+📘 **[English Version README](README_en.md)**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula)
+## GitHub 统计数据 📊
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=dracula" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=vue" />
+</p>
 
-## Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=vue" />
+</p>
 
-### openwechat
+## 🌟 开源项目
 
-- Repository: [https://github.com/eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat)
-- Description: golang wechat sdk
-- Tech Stack: golang
-- Documentation: [click to read](https://openwechat.readthedocs.io/zh/latest/)
+### 📱 openwechat - Golang 微信机器人框架
 
-###  juice
+<p align="center">
+  <img src="https://img.shields.io/github/stars/eatmoreapple/openwechat?style=social" />
+  <img src="https://img.shields.io/github/forks/eatmoreapple/openwechat?style=social" />
+</p>
 
-- Repository: [https://github.com/eatmoreapple/juice](https://github.com/eatmoreapple/juice)
-- Description: sql mapper framework for golang
-- Tech Stack: golang
-- Features: Flexible, Easy to use, High performance
-- Documentation: [click to read](https://juice-doc.readthedocs.io/en/latest/index.html)
+一款功能强大的微信个人号机器人 SDK，基于网页版微信协议开发。通过它你可以轻松实现微信消息监听、自动回复、好友管理等功能。
 
+- 🔧 **开箱即用** - 简单几行代码即可启动微信机器人
+- 🔄 **事件驱动** - 支持多种消息类型和回调函数
+- 🛡️ **安全稳定** - 模拟真实客户端行为，避免被限制
+- 📚 **文档完善** - 提供详细的使用指南和示例代码
 
-### 📫 Let's Connect!
+🔗 [项目地址](https://github.com/eatmoreapple/openwechat) | 📖 [详细文档](https://openwechat.readthedocs.io/zh/latest/)
 
-I'm always interested in connecting with fellow developers and exploring new opportunities.
+### 🍹 juice - Golang SQL 映射框架
 
-**Email:** eatmoreorange@gmail.com
-**WeChat:** eatmoreapple
+<p align="center">
+  <img src="https://img.shields.io/github/stars/go-juicedev/juice?style=social" />
+  <img src="https://img.shields.io/github/forks/go-juicedev/juice?style=social" />
+</p>
 
+受到 MyBatis 启发而开发的 Golang SQL 映射框架，让数据库操作变得更加简单直观。支持动态 SQL、结果映射等高级特性。
 
-## Support Me
+- ⚡ **高性能** - 零反射设计，运行效率极高
+- 🎯 **易集成** - 与标准库无缝对接，学习成本低
+- 🌈 **灵活性强** - 支持复杂的动态 SQL 构建
+- 📦 **轻量级** - 无第三方依赖，部署简单
 
-If you like my work, please consider supporting me by buying me a coffee.
+🔗 [项目地址](https://github.com/go-juicedev/juice) | 📖 [详细文档](https://juice-doc.readthedocs.io/en/latest/index.html)
 
-<a href="./img/wechat_pay.jpg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+---
 
+## 📫 联系我
 
+我乐于结识更多志同道合的朋友，也非常欢迎各种合作机会！
 
+最近正在考虑新的工作机会，如果您有合适的机会或项目合作，欢迎随时联系我。
 
+<p align="center">
+  <a href="mailto:eatmoreorange@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="./img/wechat.jpg">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信">
+  </a>
+</p>
 
+## ☕ 支持我
 
+如果你觉得我的项目对你有帮助，或者你 просто想表达支持，可以通过以下方式请我喝杯咖啡：
 
+<p align="center">
+  <a href="./img/wechat_pay.jpg">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
 
-
+---
+<p align="center">
+  Made with ❤️ by eatmoreapple | 让代码更有温度
+</p>
