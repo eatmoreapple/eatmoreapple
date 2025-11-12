@@ -1,9 +1,5 @@
 <!-- 个人徽章 -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84Gopher+%7C+Python%E7%A8%8B%E5%BA%8F%E5%91%98;热爱%E5%BC%80%E6%BA%90+%7C+%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E8%80%85;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0+%7C+%E6%80%9D%E8%80%83%E8%80%85" alt="Typing SVG" />
-</p>
-
-<h1 align="center">你好世界，我是 eatmoreapple 👋</h1>
+<h1 align="center">我是 eatmoreapple 👋</h1>
 
 <p align="center">
   <a href="mailto:eatmoreorange@gmail.com">
@@ -73,7 +69,7 @@
 
 ## 📫 联系我
 
-我乐于结识更多志同道合的朋友，也非常欢迎各种合作机会！
+我乐于结识更多志同道合的朋友，也非常欢迎各种合作机会！最近正在考虑新的工作机会，如果您有合适的机会或项目合作，欢迎随时联系我。
 
 <p align="center">
   <a href="mailto:eatmoreorange@gmail.com">

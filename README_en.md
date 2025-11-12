@@ -1,8 +1,4 @@
 <!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Go+%7C+Python+Developer;Open+Source+Enthusiast;Lifelong+Learner+%7C+Thinker" alt="Typing SVG" />
-</p>
-
 <h1 align="center">Hi there, I'm eatmoreapple! 👋</h1>
 
 <p align="center">
@@ -73,7 +69,7 @@ A Golang SQL mapping framework inspired by MyBatis, making database operations s
 
 ## 📫 Let's Connect!
 
-I'm always interested in connecting with fellow developers and exploring new opportunities.
+I'm always interested in connecting with fellow developers and exploring new opportunities! I'm currently considering new job opportunities, so if you have any suitable opportunities or project collaborations, please feel free to contact me.
 
 <p align="center">
   <a href="mailto:eatmoreorange@gmail.com">
