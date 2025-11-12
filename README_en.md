@@ -7,6 +7,16 @@ A developer passionate about technology, currently based in Hangzhou, focused on
 
 📖 **[中文版 README (Chinese Version)](README.md)**
 
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=dracula" />
+</p>
+
 ## 🌟 Open Source Projects
 
 ### 📱 openwechat - Golang WeChat SDK
@@ -43,21 +53,11 @@ A Golang SQL mapping framework inspired by MyBatis, making database operations s
 
 ---
 
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=dracula" />
-</p>
-
----
-
 ## 📫 Let's Connect!
 
-I'm always interested in connecting with fellow developers and exploring new opportunities! I'm currently considering new job opportunities, so if you have any suitable opportunities or project collaborations, please feel free to contact me.
+I'm always interested in connecting with fellow developers and exploring new opportunities!
+
+I'm currently considering new job opportunities, so if you have any suitable opportunities or project collaborations, please feel free to contact me.
 
 <p align="center">
   <a href="mailto:eatmoreorange@gmail.com">

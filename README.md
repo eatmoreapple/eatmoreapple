@@ -7,6 +7,16 @@
 
 📘 **[English Version README](README_en.md)**
 
+## GitHub 统计数据 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=vue" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=vue" />
+</p>
+
 ## 🌟 开源项目
 
 ### 📱 openwechat - Golang 微信机器人框架
@@ -43,21 +53,11 @@
 
 ---
 
-## GitHub 统计数据 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=vue" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=vue" />
-</p>
-
----
-
 ## 📫 联系我
 
-我乐于结识更多志同道合的朋友，也非常欢迎各种合作机会！最近正在考虑新的工作机会，如果您有合适的机会或项目合作，欢迎随时联系我。
+我乐于结识更多志同道合的朋友，也非常欢迎各种合作机会！
+
+最近正在考虑新的工作机会，如果您有合适的机会或项目合作，欢迎随时联系我。
 
 <p align="center">
   <a href="mailto:eatmoreorange@gmail.com">
