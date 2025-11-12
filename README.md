@@ -1,18 +1,6 @@
 <!-- 个人徽章 -->
 <h1 align="center">我是 eatmoreapple 👋</h1>
 
-<p align="center">
-  <a href="mailto:eatmoreorange@gmail.com">
-    <img src="https://img.shields.io/badge/-%E9%82%AE%E7%AE%B1-FF6B6B?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱">
-  </a>
-  <a href="https://github.com/eatmoreapple">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://wechat.com">
-    <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="微信">
-  </a>
-</p>
-
 ## 关于我 ✨
 
 热爱技术的开发者，目前在杭州，专注于 Golang 和 Python，喜欢通过代码解决问题。业余时间积极参与开源项目，与社区共同成长。
@@ -40,8 +28,8 @@
 ### 🍹 juice - Golang SQL 映射框架
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/eatmoreapple/juice?style=social" />
-  <img src="https://img.shields.io/github/forks/eatmoreapple/juice?style=social" />
+  <img src="https://img.shields.io/github/stars/juice-dev/juice?style=social" />
+  <img src="https://img.shields.io/github/forks/juice-dev/juice?style=social" />
 </p>
 
 受到 MyBatis 启发而开发的 Golang SQL 映射框架，让数据库操作变得更加简单直观。支持动态 SQL、结果映射等高级特性。
@@ -51,7 +39,7 @@
 - 🌈 **灵活性强** - 支持复杂的动态 SQL 构建
 - 📦 **轻量级** - 无第三方依赖，部署简单
 
-🔗 [项目地址](https://github.com/eatmoreapple/juice) | 📖 [详细文档](https://juice-doc.readthedocs.io/en/latest/index.html)
+🔗 [项目地址](https://github.com/juice-dev/juice) | 📖 [详细文档](https://juice-doc.readthedocs.io/en/latest/index.html)
 
 ---
 

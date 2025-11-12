@@ -1,18 +1,6 @@
 <!-- Typing SVG -->
 <h1 align="center">Hi there, I'm eatmoreapple! 👋</h1>
 
-<p align="center">
-  <a href="mailto:eatmoreorange@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/eatmoreapple">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
-  </a>
-  <a href="https://wechat.com">
-    <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat">
-  </a>
-</p>
-
 ## About Me ✨
 
 A developer passionate about technology, currently based in Hangzhou, focused on Golang and Python, and enjoys solving problems through code. In spare time, I actively participate in open-source projects and grow with the community.
