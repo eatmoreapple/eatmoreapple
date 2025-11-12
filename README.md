@@ -1,5 +1,8 @@
 # Hi there, I'm eatmoreapple! 👋
 
+[](mailto:eatmoreorange@gmail.com)
+
+
 Welcome to my GitHub profile! I'm a passionate developer with expertise in **golang python**. I love creating innovative solutions and contributing to open-source projects.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula)
@@ -23,13 +26,13 @@ Welcome to my GitHub profile! I'm a passionate developer with expertise in **gol
 - Features: Flexible, Easy to use, High performance
 - Documentation: [click to read](https://juice-doc.readthedocs.io/en/latest/index.html)
 
-## Contact Me
 
-I'm always interested in connecting with fellow developers and exploring new opportunities. 
+### 📫 Let's Connect!
 
-You can reach me via email at `eatmoreorange@gmail.com` or send me a message on WeChat at `eatmoreapple`.
+I'm always interested in connecting with fellow developers and exploring new opportunities.
 
-Let's collaborate and build amazing things together! ✨
+**Email:** eatmoreorange@gmail.com
+**WeChat:** eatmoreapple
 
 
 ## Support Me
