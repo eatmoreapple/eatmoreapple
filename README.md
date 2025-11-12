@@ -28,8 +28,8 @@
 ### 🍹 juice - Golang SQL 映射框架
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/juice-dev/juice?style=social" />
-  <img src="https://img.shields.io/github/forks/juice-dev/juice?style=social" />
+  <img src="https://img.shields.io/github/stars/go-juicedev/juice?style=social" />
+  <img src="https://img.shields.io/github/forks/go-juicedev/juice?style=social" />
 </p>
 
 受到 MyBatis 启发而开发的 Golang SQL 映射框架，让数据库操作变得更加简单直观。支持动态 SQL、结果映射等高级特性。
@@ -39,7 +39,7 @@
 - 🌈 **灵活性强** - 支持复杂的动态 SQL 构建
 - 📦 **轻量级** - 无第三方依赖，部署简单
 
-🔗 [项目地址](https://github.com/juice-dev/juice) | 📖 [详细文档](https://juice-doc.readthedocs.io/en/latest/index.html)
+🔗 [项目地址](https://github.com/go-juicedev/juice) | 📖 [详细文档](https://juice-doc.readthedocs.io/en/latest/index.html)
 
 ---
 
