@@ -1,119 +1,100 @@
-<div id="english-content">
+<!-- 个人徽章 -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84Gopher+%7C+Python%E7%A8%8B%E5%BA%8F%E5%91%98;热爱%E5%BC%80%E6%BA%90+%7C+%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB%E8%80%85;%E6%8C%81%E7%BB%AD%E5%AD%A6%E4%B9%A0+%7C+%E6%80%9D%E8%80%83%E8%80%85" alt="Typing SVG" />
+</p>
 
-# Hi there, I'm eatmoreapple! 👋
+<h1 align="center">你好世界，我是 eatmoreapple 👋</h1>
 
-[](mailto:eatmoreorange@gmail.com)
+<p align="center">
+  <a href="mailto:eatmoreorange@gmail.com">
+    <img src="https://img.shields.io/badge/-%E9%82%AE%E7%AE%B1-FF6B6B?style=flat-square&logo=Gmail&logoColor=white" alt="邮箱">
+  </a>
+  <a href="https://github.com/eatmoreapple">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub">
+  </a>
+  <a href="https://wechat.com">
+    <img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="微信">
+  </a>
+</p>
 
-Welcome to my GitHub profile! I'm a passionate developer with expertise in **golang python**. I love creating innovative solutions and contributing to open-source projects.
+## 关于我 ✨
 
-[Switch to Chinese 中文版](#chinese)
+热爱技术的开发者，目前在杭州，专注于 Golang 和 Python，喜欢通过代码解决问题。业余时间积极参与开源项目，与社区共同成长。
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula)
+📘 **[English Version README](README_en.md)**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=dracula" />
+## 🌟 开源项目
 
-## Projects
+### 📱 openwechat - Golang 微信机器人框架
 
-### openwechat
+<p align="center">
+  <img src="https://img.shields.io/github/stars/eatmoreapple/openwechat?style=social" />
+  <img src="https://img.shields.io/github/forks/eatmoreapple/openwechat?style=social" />
+</p>
 
-- Repository: [https://github.com/eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat)
-- Description: golang wechat sdk
-- Tech Stack: golang
-- Documentation: [click to read](https://openwechat.readthedocs.io/zh/latest/)
+一款功能强大的微信个人号机器人 SDK，基于网页版微信协议开发。通过它你可以轻松实现微信消息监听、自动回复、好友管理等功能。
 
-### juice
+- 🔧 **开箱即用** - 简单几行代码即可启动微信机器人
+- 🔄 **事件驱动** - 支持多种消息类型和回调函数
+- 🛡️ **安全稳定** - 模拟真实客户端行为，避免被限制
+- 📚 **文档完善** - 提供详细的使用指南和示例代码
 
-- Repository: [https://github.com/eatmoreapple/juice](https://github.com/eatmoreapple/juice)
-- Description: sql mapper framework for golang
-- Tech Stack: golang
-- Features: Flexible, Easy to use, High performance
-- Documentation: [click to read](https://juice-doc.readthedocs.io/en/latest/index.html)
+🔗 [项目地址](https://github.com/eatmoreapple/openwechat) | 📖 [详细文档](https://openwechat.readthedocs.io/zh/latest/)
 
-### 📫 Let's Connect!
+### 🍹 juice - Golang SQL 映射框架
 
-I'm always interested in connecting with fellow developers and exploring new opportunities.
+<p align="center">
+  <img src="https://img.shields.io/github/stars/eatmoreapple/juice?style=social" />
+  <img src="https://img.shields.io/github/forks/eatmoreapple/juice?style=social" />
+</p>
 
-**Email:** eatmoreorange@gmail.com
-**WeChat:** eatmoreapple
+受到 MyBatis 启发而开发的 Golang SQL 映射框架，让数据库操作变得更加简单直观。支持动态 SQL、结果映射等高级特性。
 
-## Support Me
+- ⚡ **高性能** - 零反射设计，运行效率极高
+- 🎯 **易集成** - 与标准库无缝对接，学习成本低
+- 🌈 **灵活性强** - 支持复杂的动态 SQL 构建
+- 📦 **轻量级** - 无第三方依赖，部署简单
 
-If you like my work, please consider supporting me by buying me a coffee.
+🔗 [项目地址](https://github.com/eatmoreapple/juice) | 📖 [详细文档](https://juice-doc.readthedocs.io/en/latest/index.html)
 
-<a href="./img/wechat_pay.jpg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+---
 
-</div>
+## GitHub 统计数据 📊
 
-<div id="chinese-content" style="display:none">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=vue" />
+</p>
 
-# 你好，我是 eatmoreapple！👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=vue" />
+</p>
 
-[](mailto:eatmoreorange@gmail.com)
+---
 
-欢迎来到我的 GitHub 主页！我是一名充满热情的开发者，专注于 **golang 和 python**。我喜欢创造创新的解决方案并为开源项目做贡献。
+## 📫 联系我
 
-[切换到英文 English Version](#english)
+我乐于结识更多志同道合的朋友，也非常欢迎各种合作机会！
 
-![github stats](https://github-readme-stats.vercel.app/api?username=eatmoreapple&show_icons=true&theme=dracula)
+<p align="center">
+  <a href="mailto:eatmoreorange@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="./img/wechat.jpg">
+    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信">
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eatmoreapple&layout=compact&theme=dracula" />
+## ☕ 支持我
 
-## 项目
+如果你觉得我的项目对你有帮助，或者你 просто想表达支持，可以通过以下方式请我喝杯咖啡：
 
-### openwechat
+<p align="center">
+  <a href="./img/wechat_pay.jpg">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
 
-- 仓库地址: [https://github.com/eatmoreapple/openwechat](https://github.com/eatmoreapple/openwechat)
-- 描述: golang 微信 SDK
-- 技术栈: golang
-- 文档: [点击查看](https://openwechat.readthedocs.io/zh/latest/)
-
-### juice
-
-- 仓库地址: [https://github.com/eatmoreapple/juice](https://github.com/eatmoreapple/juice)
-- 描述: golang 的 SQL 映射框架
-- 技术栈: golang
-- 特性: 灵活、易用、高性能
-- 文档: [点击查看](https://juice-doc.readthedocs.io/en/latest/index.html)
-
-### 📫 联系我！
-
-我一直有兴趣与 fellow 开发者建立联系并探索新的机会。
-
-**邮箱:** eatmoreorange@gmail.com
-**微信:** eatmoreapple
-
-## 支持我
-
-如果你喜欢我的工作，请考虑通过请我喝杯咖啡来支持我。
-
-<a href="./img/wechat_pay.jpg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
-
-</div>
-
-<script>
-function switchLanguage() {
-    const englishContent = document.getElementById('english-content');
-    const chineseContent = document.getElementById('chinese-content');
-    
-    if (window.location.hash === '#chinese') {
-        englishContent.style.display = 'none';
-        chineseContent.style.display = 'block';
-    } else {
-        englishContent.style.display = 'block';
-        chineseContent.style.display = 'none';
-    }
-}
-
-// Run on page load and hash change
-window.addEventListener('load', switchLanguage);
-window.addEventListener('hashchange', switchLanguage);
-</script>
-
-
-
-
-
-
-
-
-
+---
+<p align="center">
+  Made with ❤️ by eatmoreapple | 让代码更有温度
+</p>
